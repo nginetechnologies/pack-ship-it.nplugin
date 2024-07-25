@@ -2,7 +2,7 @@
     "003f6588-4d15-530e-1aec-8218f03d1a33": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Door Wide Half Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Door Wide Half Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -14,7 +14,7 @@
     "01d84f77-6ced-edb1-cd21-4f913d55a323": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Structure Yellow Tall.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Structure Yellow Tall.mesh.nasset",
         "thumbnail": "13f1c988-4ed8-daec-6671-530ca4836ec9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -29,10 +29,24 @@
             "13ecf12b-b39c-6c1b-f316-6e3185df69eb"
         ]
     },
+    "0238fd61-a4c6-df51-c79b-517c77e6adf7": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Stripe Single White.mesh.nasset/Stripe Single White.mesh.nasset",
+        "thumbnail": "f8d4b07b-d303-4a20-96ad-816ac01936a6",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "8f34bc6f-ef5e-34df-083f-d5691ec76788",
+            "c2a65c6d-835c-8097-b203-022af6c2cfaa",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "03587e3d-8d1a-9718-e0be-d491a4a2f6fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide.mesh.nasset",
         "thumbnail": "35857d32-4c82-325b-a552-974c0d694003",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -52,7 +66,7 @@
     "04a2a88f-415c-5a8b-6d14-5ca14f89a719": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Wide.mesh.nasset/Box Wide Cardboard.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Wide.mesh.nasset/Box Wide Cardboard.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -64,7 +78,7 @@
     "058bedbb-4385-11e7-eec0-f9f62b8aa00d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Structure Yellow High Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Structure Yellow High Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -75,20 +89,20 @@
     },
     "06a45f6f-3852-b089-8ebd-240ffa53eb78": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Small.mesh.nasset/Thumbnails/Box Small.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Small.mesh.nasset/Thumbnails/Box Small.mesh.nasset.tex.nasset"
     },
     "06ec2b14-b9ad-96b0-fade-bdb641673bdc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Thumbnails/Conveyor Long Stripe Sides.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Thumbnails/Conveyor Long Stripe Sides.mesh.nasset.tex.nasset"
     },
     "06edd1b6-6857-a434-6120-645740fee0fc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Thumbnails/Cover Stripe Bar.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Thumbnails/Cover Stripe Bar.mesh.nasset.tex.nasset"
     },
     "0763c644-be1f-3bad-3a91-4d741f3fb468": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -100,7 +114,7 @@
     "08408cab-896a-30dd-9618-9517497ebc4a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -112,7 +126,7 @@
     "08cd5977-dbd5-4724-dd37-3c7da7191779": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Conveyor Bars Stripe High.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Conveyor Bars Stripe High.mesh.nasset",
         "thumbnail": "30b1f0b8-8055-7784-0ed5-6b5dd575e7a8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -130,7 +144,7 @@
     "08cf3cce-27a3-3e5c-a8b9-c374b1654f74": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Door Wide Half.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Door Wide Half.mesh.nasset",
         "thumbnail": "e117d511-ec9c-2d6d-ef5f-9c76006cccd8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -148,7 +162,7 @@
     "092d45f0-1578-bdd7-81af-8a12887750f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Structure Wall Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Structure Wall Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -160,7 +174,7 @@
     "09a01dd8-d811-2c53-4fb3-c4b1ddf5da7b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Structure Corner Inner.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Structure Corner Inner.mesh.nasset",
         "thumbnail": "dcda31d8-3dd8-6927-964d-2ae71af5eab6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -178,7 +192,7 @@
     "09f59a4f-8b40-c1f9-5d3c-d553ddcc909b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -189,12 +203,12 @@
     },
     "0d4c8a30-7649-e1f2-6a76-296ffe376d69": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Thumbnails/Cover Window.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Thumbnails/Cover Window.mesh.nasset.tex.nasset"
     },
     "0ef31e7f-0575-fc71-beb1-b3f2fa87641c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -206,7 +220,7 @@
     "0f0f9df8-51c5-f747-2e37-35c1608abed2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Cover Hopper.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Cover Hopper.mesh.nasset",
         "thumbnail": "b3312db5-4044-40ed-4935-115a03e880df",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -224,7 +238,7 @@
     "0fe266e7-29c4-7cde-e6da-e1e5ea7c44e3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor.mesh.nasset/Conveyor Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor.mesh.nasset/Conveyor Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -236,7 +250,7 @@
     "109b4815-9b42-1697-d2d7-95b0215a5604": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Structure Corner Outer Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Structure Corner Outer Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -248,7 +262,7 @@
     "109ea5f4-e6da-78ae-4eb1-724ebb59e826": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor.mesh.nasset/Conveyor.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor.mesh.nasset/Conveyor.mesh.nasset",
         "thumbnail": "cbd9e079-f5f7-a054-0a5f-b82fa1a0111b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -264,7 +278,7 @@
     "10d69547-b8b3-1dec-ccbb-b04960d53661": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window White.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -276,7 +290,7 @@
     "122808a3-2f01-f0eb-cc30-917def81d547": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -288,7 +302,7 @@
     "1360f33f-be9b-04e3-fbf6-d2f58bbed174": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Conveyor Bars Sides Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Conveyor Bars Sides Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -300,7 +314,7 @@
     "13cdced8-d295-fc9e-bd9e-a939bb2bae0c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Doorway Wide.mesh.nasset/Structure Doorway Wide Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Doorway Wide.mesh.nasset/Structure Doorway Wide Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -312,7 +326,7 @@
     "13ecf12b-b39c-6c1b-f316-6e3185df69eb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Structure Yellow Tall Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Structure Yellow Tall Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -323,12 +337,12 @@
     },
     "13f1c988-4ed8-daec-6671-530ca4836ec9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Thumbnails/Structure Yellow Tall.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Thumbnails/Structure Yellow Tall.mesh.nasset.tex.nasset"
     },
     "141f0f5c-1e2f-6e4a-925f-ab0293ad41da": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -340,7 +354,7 @@
     "15e3b847-120c-3a27-dd17-c668bf26f135": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar.mesh.nasset",
         "thumbnail": "06edd1b6-6857-a434-6120-645740fee0fc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -360,7 +374,7 @@
     "1762097f-2a43-1a20-815c-2dd6cbc8d14e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Structure Yellow Short Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Structure Yellow Short Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -372,7 +386,7 @@
     "1818c02f-68d2-a580-0fa4-0d92d7496b77": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Wide.mesh.nasset/Box Wide.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Wide.mesh.nasset/Box Wide.mesh.nasset",
         "thumbnail": "4c81cff1-6075-1c85-1663-8296ab5cba6d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -388,7 +402,7 @@
     "1830d579-4c55-c7db-931d-e8a892d6e5c9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -400,7 +414,7 @@
     "19214926-6312-9717-7d50-7bc494ddb7c2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -411,20 +425,20 @@
     },
     "19f16e1d-97b6-bc51-7115-d6e275964fa3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/Tape.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/Tape.mtli.nasset.tex.nasset"
     },
     "1a845487-5dd9-a60b-81a0-2a5e2ee60850": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Thumbnails/Conveyor Bars Stripe Side.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Thumbnails/Conveyor Bars Stripe Side.mesh.nasset.tex.nasset"
     },
     "1aa017cb-1afc-6eea-13ee-c229b2f39664": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Thumbnails/Cover Stripe Window.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Thumbnails/Cover Stripe Window.mesh.nasset.tex.nasset"
     },
     "1ae8ed0a-4ec8-59e6-8db5-b934e8b58a14": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Long.mesh.nasset/Box Long Cardboard.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Long.mesh.nasset/Box Long Cardboard.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -435,12 +449,12 @@
     },
     "1b307273-1cf6-4b2d-da87-fe680754096c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Thumbnails/Structure Yellow Medium.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Thumbnails/Structure Yellow Medium.mesh.nasset.tex.nasset"
     },
     "1ce7aad2-ce6a-f911-c4ed-aaff07a957aa": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Closed.mesh.nasset/Door Wide Closed Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Closed.mesh.nasset/Door Wide Closed Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -452,7 +466,7 @@
     "1de0b0cd-73fe-6566-908f-1c332c4f1e41": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Conveyor Stripe Sides.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Conveyor Stripe Sides.mesh.nasset",
         "thumbnail": "b928e064-8469-1615-b157-e25a7d486d53",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -469,12 +483,12 @@
     },
     "1f747b8b-fd74-e584-25a2-c089298624d4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Thumbnails/Cover Bar.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Thumbnails/Cover Bar.mesh.nasset.tex.nasset"
     },
     "20b7711a-0226-2a23-23c8-c50613edb5d9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Stripe.mesh.nasset/Conveyor Stripe Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Stripe.mesh.nasset/Conveyor Stripe Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -485,12 +499,12 @@
     },
     "20c992b0-5617-9b37-bb3d-dc0cce285d6e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/Cardboard.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/Cardboard.mtli.nasset.tex.nasset"
     },
     "2169eb10-32f5-3fcc-dbfc-9eaecdf0b17b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Conveyor Long Sides Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Conveyor Long Sides Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -501,12 +515,12 @@
     },
     "22720482-3f4c-598a-b67b-6fa9fb6dc9ed": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Thumbnails/Structure Tall.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Thumbnails/Structure Tall.mesh.nasset.tex.nasset"
     },
     "228819da-537c-ccb4-bee0-c0c19f7f166d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Cover Window Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Cover Window Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -518,7 +532,7 @@
     "22b08355-2c73-c8a3-bb4b-b006d9a1c01e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Structure Yellow Medium Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Structure Yellow Medium Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -529,16 +543,16 @@
     },
     "240229ff-f89c-34a2-b03b-42fa4e29e372": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Thumbnails/Conveyor Bars High.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Thumbnails/Conveyor Bars High.mesh.nasset.tex.nasset"
     },
     "2472f42a-db5c-3e99-5c43-db9836c686c9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Thumbnails/Cover Top.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Thumbnails/Cover Top.mesh.nasset.tex.nasset"
     },
     "24d44e4a-583c-b8e1-6a7d-3614915b0518": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Structure Tall Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Structure Tall Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -549,12 +563,12 @@
     },
     "25902642-c472-5db3-f685-8253f6392ce3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Long.mesh.nasset/Thumbnails/Box Long.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Long.mesh.nasset/Thumbnails/Box Long.mesh.nasset.tex.nasset"
     },
     "26f8d822-ba71-60bf-e9c9-14d81e8d2416": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -566,7 +580,7 @@
     "286e418d-5b46-4041-4ef2-ac18505131a3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Small.mesh.nasset/Box Small.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Small.mesh.nasset/Box Small.mesh.nasset",
         "thumbnail": "06a45f6f-3852-b089-8ebd-240ffa53eb78",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -582,7 +596,7 @@
     "28c1b84f-6028-f3cb-f751-baf7ba3eac22": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Conveyor Long Stripe Sides Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Conveyor Long Stripe Sides Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -593,12 +607,12 @@
     },
     "29179e4d-0c91-ab3a-d5f7-a7389f3aa786": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Thumbnails/Conveyor Sides.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Thumbnails/Conveyor Sides.mesh.nasset.tex.nasset"
     },
     "29dd893e-710c-8328-6bfc-db4bb81cfcd0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Cover Top Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Cover Top Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -610,7 +624,7 @@
     "2a28827e-b8b7-b75d-3d46-c1f9f5aafac4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Wide.mesh.nasset/Box Wide Tape.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Wide.mesh.nasset/Box Wide Tape.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -621,12 +635,12 @@
     },
     "2a4557ff-2280-cc47-c772-85fc269cb6ef": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Thumbnails/Structure Corner Outer.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Thumbnails/Structure Corner Outer.mesh.nasset.tex.nasset"
     },
     "2a4c692b-7d2f-5838-69e4-017d4cfc36fa": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide White.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -638,7 +652,7 @@
     "2b37183d-e364-f259-8b7d-3fafd17298fe": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Structure Wall Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Structure Wall Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -649,16 +663,16 @@
     },
     "2fe4251c-0cfd-3441-14ac-8bf92071d8fa": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door.mesh.nasset/Thumbnails/Door.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door.mesh.nasset/Thumbnails/Door.mesh.nasset.tex.nasset"
     },
     "30b1f0b8-8055-7784-0ed5-6b5dd575e7a8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Thumbnails/Conveyor Bars Stripe High.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Thumbnails/Conveyor Bars Stripe High.mesh.nasset.tex.nasset"
     },
     "31706ef9-d720-e20f-f29d-43b90508c66e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Conveyor Bars Stripe Side.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Conveyor Bars Stripe Side.mesh.nasset",
         "thumbnail": "1a845487-5dd9-a60b-81a0-2a5e2ee60850",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -676,7 +690,7 @@
     "31988bde-5741-80db-6428-4df8a81e2e34": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -688,7 +702,7 @@
     "32517495-0bd9-7cb7-71c9-2c08edc31559": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Conveyor Bars Stripe High Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Conveyor Bars Stripe High Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -700,7 +714,7 @@
     "332ea22f-d94f-6d27-a8d4-40aa6dcb6f56": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Structure Yellow High Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Structure Yellow High Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -712,7 +726,7 @@
     "34734292-c80e-28f0-40f1-0429994f6b6e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Cover Corner Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Cover Corner Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -723,12 +737,12 @@
     },
     "35857d32-4c82-325b-a552-974c0d694003": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Thumbnails/Structure Window Wide.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Thumbnails/Structure Window Wide.mesh.nasset.tex.nasset"
     },
     "36813989-3c7b-e5c8-c092-8b5ab365ca7d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/SC_Ship_It.scene.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/SC_Ship_It.scene.nasset",
         "dependencies": [
             "873e63be-77ec-9bc2-26da-7736fae2e642",
             "a4f56309-343a-7080-5288-37f5245481ac",
@@ -784,13 +798,30 @@
             "f03958cd-0277-34e8-cade-957dc5f69792",
             "f03f82e3-afee-293f-7717-74f0b94f1094",
             "01d84f77-6ced-edb1-cd21-4f913d55a323",
-            "cb0add24-d236-8775-a88b-c862a7edb7df"
+            "cb0add24-d236-8775-a88b-c862a7edb7df",
+            "3709e2e0-abd8-5521-613d-946c2c8fd63d",
+            "540b59a8-6c8b-b32a-eb3b-8ebf343be80b",
+            "0238fd61-a4c6-df51-c79b-517c77e6adf7"
+        ]
+    },
+    "3709e2e0-abd8-5521-613d-946c2c8fd63d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Stripe Angle White.mesh.nasset/Stripe Angle White.mesh.nasset",
+        "thumbnail": "f9d6e963-0bbb-4c28-bf43-302c4fd4b36a",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "8f34bc6f-ef5e-34df-083f-d5691ec76788",
+            "c45310c6-5328-3263-4378-6544c66330f2",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "373b501e-8b99-ba17-159f-5ba296104794": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long.mesh.nasset/Conveyor Long Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long.mesh.nasset/Conveyor Long Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -802,7 +833,7 @@
     "3761e589-bf3a-fc53-6eee-703389b1c568": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -813,12 +844,12 @@
     },
     "378fdcb7-4e35-2ca5-4229-e60ee87c929f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Stripe.mesh.nasset/Thumbnails/Conveyor Stripe.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Stripe.mesh.nasset/Thumbnails/Conveyor Stripe.mesh.nasset.tex.nasset"
     },
     "3bd7a6e4-4aff-e185-e232-26dfb65e8039": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Conveyor Bars High Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Conveyor Bars High Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -829,7 +860,7 @@
     },
     "3d21530b-ca5c-0111-7210-ad5689e9d206": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/Striping.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/Striping.mtli.nasset.tex.nasset"
     },
     "3d7593c8-9144-69a2-8414-055d98f0a872": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -837,12 +868,12 @@
     },
     "3d9f7238-377f-4a11-4639-0f93bc74d96a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
     },
     "3e7feae0-badb-3d0b-8205-ee07d5c62d77": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Structure Corner Inner Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Structure Corner Inner Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -854,7 +885,7 @@
     "40003010-eb11-7a9a-b3f8-a8240feaa087": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Doorway.mesh.nasset/Structure Doorway.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Doorway.mesh.nasset/Structure Doorway.mesh.nasset",
         "thumbnail": "ce24a7a2-9f1f-b274-a6b8-881632fc8276",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -870,7 +901,7 @@
     "40789556-7dd0-94c8-0e3f-41af895908b1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Large.mesh.nasset/Box Large Cardboard.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Large.mesh.nasset/Box Large Cardboard.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -881,12 +912,12 @@
     },
     "44449cd6-5af3-ec87-dfdd-e52f1a9a9eab": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/Orange.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/Orange.mtli.nasset.tex.nasset"
     },
     "444ec010-d990-2d59-dcfe-936104238089": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -898,7 +929,7 @@
     "45e0aaf7-6217-cfd2-2763-6257b18a56e2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -910,7 +941,7 @@
     "45f1b116-e0c7-5250-089f-c54ac9815917": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long.mesh.nasset/Conveyor Long.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long.mesh.nasset/Conveyor Long.mesh.nasset",
         "thumbnail": "4fbddcef-5687-dcf9-044c-afd86c9d725e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -926,7 +957,7 @@
     "463b459e-4033-0966-c7c3-6f66cd188b29": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Conveyor Bars Sides.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Conveyor Bars Sides.mesh.nasset",
         "thumbnail": "6e5b5d0f-1c06-803a-9e80-85e04945ebe3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -943,12 +974,12 @@
     },
     "46a7f55f-da3b-d5d2-9fe1-6de12d42c17d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Thumbnails/Structure Yellow High.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Thumbnails/Structure Yellow High.mesh.nasset.tex.nasset"
     },
     "47348ac8-f765-9b1f-018d-18d034f4ae1f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Structure Short.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Structure Short.mesh.nasset",
         "thumbnail": "6e2495f4-c3b8-35e2-43be-50080d290f06",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -966,7 +997,7 @@
     "4962db3a-463e-491b-e5ec-b5c8fe0b76f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -975,10 +1006,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4a614666-87cf-47df-877a-1c21fe7d1d34": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Ship_It_Skybox.mtli.nasset",
+        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
+    },
     "4bf0f1cf-93af-6855-517f-6598a24869f0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Stripe.mesh.nasset/Conveyor Long Stripe Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Stripe.mesh.nasset/Conveyor Long Stripe Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -989,12 +1026,12 @@
     },
     "4c81cff1-6075-1c85-1663-8296ab5cba6d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Wide.mesh.nasset/Thumbnails/Box Wide.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Wide.mesh.nasset/Thumbnails/Box Wide.mesh.nasset.tex.nasset"
     },
     "4cc52f1a-7c82-3b48-c76c-3bbb779db6b0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Closed.mesh.nasset/Door Wide Closed.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Closed.mesh.nasset/Door Wide Closed.mesh.nasset",
         "thumbnail": "92a4eb0d-41f3-a2f4-0a78-7b3d383e1bac",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1009,12 +1046,12 @@
     },
     "4d8a65ab-eede-1f60-6dd2-f227f118519b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/Dark.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/Dark.mtli.nasset.tex.nasset"
     },
     "4ddef11d-5b52-92c5-869f-65eadb4f2fef": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Cover Bar Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Cover Bar Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1026,7 +1063,7 @@
     "4fa708dd-d862-ab0d-9e32-fa9078266219": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Structure Yellow Short Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Structure Yellow Short Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1037,12 +1074,12 @@
     },
     "4fbddcef-5687-dcf9-044c-afd86c9d725e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long.mesh.nasset/Thumbnails/Conveyor Long.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long.mesh.nasset/Thumbnails/Conveyor Long.mesh.nasset.tex.nasset"
     },
     "5070ee80-93dc-f2cb-8fd5-e2aa94c52aa5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Long.mesh.nasset/Box Long Tape.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Long.mesh.nasset/Box Long Tape.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1054,7 +1091,7 @@
     "5149ae39-20e6-8181-1f5b-d45b133ed5f2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Stripe.mesh.nasset/Conveyor Long Stripe Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Stripe.mesh.nasset/Conveyor Long Stripe Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1066,7 +1103,7 @@
     "517f1a20-b9ba-8dbb-b3cd-2a3b4ed0c531": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Cover Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Cover Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1075,10 +1112,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "523501c7-6910-5105-a988-18fd8c07a7f1": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Yellow.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "53338770-e637-7d3d-e6c0-3c34e5756c75": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Small.mesh.nasset/Box Small Cardboard.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Small.mesh.nasset/Box Small Cardboard.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1090,7 +1134,7 @@
     "53b640ff-7ae4-78a1-df6e-c57d26f978ba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Conveyor Long Sides.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Conveyor Long Sides.mesh.nasset",
         "thumbnail": "576fa92a-d852-2533-4c63-ca816c305cd1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1105,10 +1149,24 @@
             "2169eb10-32f5-3fcc-dbfc-9eaecdf0b17b"
         ]
     },
+    "540b59a8-6c8b-b32a-eb3b-8ebf343be80b": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Stripe Angle Yellow.mesh.nasset/Stripe Angle Yellow.mesh.nasset",
+        "thumbnail": "8aa983c1-9ff5-4433-ad2c-3622450ab2a6",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "523501c7-6910-5105-a988-18fd8c07a7f1",
+            "9619423d-b9ce-5b65-f5b1-165a5fd310a7",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "546f8d84-c52a-5c6c-27c5-ec440cc53e46": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Conveyor Bars High Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Conveyor Bars High Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1120,7 +1178,7 @@
     "552d784e-4d85-1279-8643-c7b9eff758f8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Structure Corner Inner Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Structure Corner Inner Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1132,7 +1190,7 @@
     "5558724f-ba24-30ad-ecad-3cce77ec7c90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars.mesh.nasset/Conveyor Bars.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars.mesh.nasset/Conveyor Bars.mesh.nasset",
         "thumbnail": "79cd829f-df49-860e-c2d6-1b51e90f1609",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1148,7 +1206,7 @@
     "557b1c16-f65f-6359-4f4c-8f81fc0be67c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Structure High.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Structure High.mesh.nasset",
         "thumbnail": "6e12511f-cfa1-c995-4a24-8c39c37512ad",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1166,7 +1224,7 @@
     "55b6a986-e6de-7ad9-6f2f-65a30676a26c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe.mesh.nasset",
         "thumbnail": "86615ef7-5a69-4c84-7841-81309417439e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1186,7 +1244,7 @@
     "56a8ba98-911f-36d0-6b3c-3ed140bb0eb5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Cover Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Cover Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1198,7 +1256,7 @@
     "572865a2-bbc7-5bf2-18d5-e1eec987f189": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Conveyor Long Sides Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Conveyor Long Sides Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1209,16 +1267,16 @@
     },
     "576fa92a-d852-2533-4c63-ca816c305cd1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Thumbnails/Conveyor Long Sides.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Thumbnails/Conveyor Long Sides.mesh.nasset.tex.nasset"
     },
     "586451e4-b315-f6d6-0199-c6c0ab1d4ffd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Thumbnails/Conveyor Bars Fence.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Thumbnails/Conveyor Bars Fence.mesh.nasset.tex.nasset"
     },
     "59587a5f-ae89-061b-52f7-4127b08f50ac": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1230,7 +1288,7 @@
     "5a428e61-ea9b-a427-a1c4-d91c4b7a96cf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Conveyor Sides Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Conveyor Sides Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1242,7 +1300,7 @@
     "5b263b11-0762-f8bd-9767-fc92ade8683b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor.mesh.nasset/Conveyor Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor.mesh.nasset/Conveyor Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1254,7 +1312,7 @@
     "5ba3b7d6-d310-d200-6c8d-9d9e97c08a91": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Door Wide Half Orange.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Door Wide Half Orange.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1266,7 +1324,7 @@
     "5c7fa92c-74ac-f3c6-ee57-1c329e1d2377": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Floor.mesh.nasset/Floor.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Floor.mesh.nasset/Floor.mesh.nasset",
         "thumbnail": "cbb82e13-1aa8-201e-8898-7ea26cf487d2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1280,7 +1338,7 @@
     "5d1aac9a-b94c-9210-c392-a7090e0ebad2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1292,7 +1350,7 @@
     "5df45f31-9118-3e37-ae25-e914ea843a44": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Door Wide Open Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Door Wide Open Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1303,7 +1361,7 @@
     },
     "5f14063d-5e0d-fc38-4d78-0a811c154521": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/Grey Dark.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/Grey Dark.mtli.nasset",
         "thumbnail": "c86cf7d3-816f-7961-9662-70fccb7ef97d",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -1311,12 +1369,12 @@
     },
     "5fac1cbf-feff-1753-e377-41c221783ad0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Thumbnails/Structure Medium.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Thumbnails/Structure Medium.mesh.nasset.tex.nasset"
     },
     "605867c5-dc0c-0dbd-c0a3-865eebd5a8e9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Floor.mesh.nasset/Floor Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Floor.mesh.nasset/Floor Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1327,12 +1385,12 @@
     },
     "6503b329-df02-4b74-91a2-c8f4ba9b6e73": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Thumbnails/Cover Stripe Hopper.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Thumbnails/Cover Stripe Hopper.mesh.nasset.tex.nasset"
     },
     "65880c46-dee4-4e8c-e02e-4458351afa72": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Cover Bar Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Cover Bar Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1344,7 +1402,7 @@
     "67139922-7b3b-a134-691d-6b1caab554c0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Doorway.mesh.nasset/Structure Doorway Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Doorway.mesh.nasset/Structure Doorway Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1356,7 +1414,7 @@
     "68b2d905-8143-4f20-d0df-114a9be31c85": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Door Wide Open.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Door Wide Open.mesh.nasset",
         "thumbnail": "acc02d66-5f0a-0380-8f11-8c6e2af84b17",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1374,7 +1432,7 @@
     "693da455-744b-67da-5d96-1a289a8d787e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Arrow.mesh.nasset/Arrow Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Arrow.mesh.nasset/Arrow Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1385,16 +1443,16 @@
     },
     "696dc8cb-68f6-98b6-b0dc-2c1df3c7d866": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Thumbnails/Conveyor Bars Stripe.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Thumbnails/Conveyor Bars Stripe.mesh.nasset.tex.nasset"
     },
     "6cbe617d-2840-8018-0fa2-8bcaf82a97ab": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/Grey.mtli.nasset.tex.nasset"
     },
     "6d93de4e-a547-e67f-600b-7b60d67b12ae": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Cover Hopper Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Cover Hopper Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1405,20 +1463,20 @@
     },
     "6e12511f-cfa1-c995-4a24-8c39c37512ad": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Thumbnails/Structure High.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Thumbnails/Structure High.mesh.nasset.tex.nasset"
     },
     "6e2495f4-c3b8-35e2-43be-50080d290f06": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Thumbnails/Structure Short.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Thumbnails/Structure Short.mesh.nasset.tex.nasset"
     },
     "6e5b5d0f-1c06-803a-9e80-85e04945ebe3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Thumbnails/Conveyor Bars Sides.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Thumbnails/Conveyor Bars Sides.mesh.nasset.tex.nasset"
     },
     "6eb4d364-87ae-c49e-e97d-9ffb127dd784": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Structure Wall Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Structure Wall Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1430,7 +1488,7 @@
     "6fb9189d-1955-f30a-1327-021b89619bb7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Stripe.mesh.nasset/Conveyor Stripe Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Stripe.mesh.nasset/Conveyor Stripe Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1442,7 +1500,7 @@
     "709b4a54-0f57-ebc6-4640-91450f52bca5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Large.mesh.nasset/Box Large Tape.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Large.mesh.nasset/Box Large Tape.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1454,7 +1512,7 @@
     "7156bf37-9af2-95bc-ed0c-fb0d63d5a3e0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Structure Corner Inner Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Structure Corner Inner Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1466,7 +1524,7 @@
     "71c6f47f-0743-20a1-79be-0c8da71cfdff": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Conveyor Bars Stripe Side Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Conveyor Bars Stripe Side Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1478,7 +1536,7 @@
     "71ea10a7-a4de-3a73-a9d0-af51fa0daa5f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Structure Corner Outer.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Structure Corner Outer.mesh.nasset",
         "thumbnail": "2a4557ff-2280-cc47-c772-85fc269cb6ef",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1496,7 +1554,7 @@
     "736808ee-cd66-47b0-aff0-d64bba8a755b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1507,12 +1565,12 @@
     },
     "741aa798-a49d-732c-5c2c-9dde1e1d386c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Top Large.mesh.nasset/Thumbnails/Top Large.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Top Large.mesh.nasset/Thumbnails/Top Large.mesh.nasset.tex.nasset"
     },
     "74a26546-4efe-aae6-f37b-0e0a3a1d3848": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Conveyor Bars Sides Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Conveyor Bars Sides Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1524,7 +1582,7 @@
     "74c02fcb-5666-1880-7ecb-860586c8897a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Structure Yellow High Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Structure Yellow High Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1536,7 +1594,7 @@
     "750751b6-d68e-486f-5441-eeb6e720d4a7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Cover Top Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Cover Top Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1548,7 +1606,7 @@
     "767eba62-82bf-0610-2ae9-f3f8b2937fe6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Conveyor Stripe Sides Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Conveyor Stripe Sides Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1560,7 +1618,7 @@
     "76f122f1-19c9-d7a0-385c-ce9d1fb6b9a9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Door Wide Open Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Door Wide Open Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1572,7 +1630,7 @@
     "77721001-87a4-b071-3d14-d4f497e41bd8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1584,7 +1642,7 @@
     "7986a583-b985-a301-feb6-d042c315fe52": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Structure High Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Structure High Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1595,12 +1653,12 @@
     },
     "79cd829f-df49-860e-c2d6-1b51e90f1609": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars.mesh.nasset/Thumbnails/Conveyor Bars.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars.mesh.nasset/Thumbnails/Conveyor Bars.mesh.nasset.tex.nasset"
     },
     "79fb76c1-ce6c-9159-d74a-184204582525": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door White.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door White.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1612,7 +1670,7 @@
     "7a9d2800-f02c-4897-7c0a-6759c7629993": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Structure Short Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Structure Short Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1624,7 +1682,7 @@
     "7abd8f75-5bfd-d297-8574-bb1e0f96e609": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long.mesh.nasset/Conveyor Long Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long.mesh.nasset/Conveyor Long Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1636,7 +1694,7 @@
     "7b9943ba-40c3-336c-9f36-6927296dc81f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Cover Bar Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Cover Bar Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1648,7 +1706,7 @@
     "7d747c54-457d-dd23-a99e-db91cd7d406e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence.mesh.nasset",
         "thumbnail": "586451e4-b315-f6d6-0199-c6c0ab1d4ffd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1668,7 +1726,7 @@
     "7d8e7e2a-dcff-8c38-516a-92aab885f19b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Structure Corner Outer Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Structure Corner Outer Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1680,7 +1738,7 @@
     "7e2e6739-fa7e-5285-8fee-af5d407d4725": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Small.mesh.nasset/Box Small Tape.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Small.mesh.nasset/Box Small Tape.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1692,7 +1750,7 @@
     "7ee884fe-0687-91a4-fc5d-e40e4bd548f5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars.mesh.nasset/Conveyor Bars Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars.mesh.nasset/Conveyor Bars Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1704,7 +1762,7 @@
     "80272971-78a2-775e-6f90-554f7caf7c7b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Door Wide Half Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Door Wide Half Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1721,7 +1779,7 @@
     "82900bc0-c1e9-4f24-47d3-c9e983d4eb59": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Conveyor Stripe Sides Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Conveyor Stripe Sides Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1732,12 +1790,12 @@
     },
     "8430000b-0100-d6b5-6971-81f9fd44c8b7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Floor Large.mesh.nasset/Thumbnails/Floor Large.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Floor Large.mesh.nasset/Thumbnails/Floor Large.mesh.nasset.tex.nasset"
     },
     "8460027b-652f-68d7-8c51-5baca36e4feb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1749,7 +1807,7 @@
     "85950867-e4d1-6d57-8d66-c93fe6a60180": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Conveyor Bars Stripe Side Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Conveyor Bars Stripe Side Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1760,12 +1818,12 @@
     },
     "86615ef7-5a69-4c84-7841-81309417439e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Thumbnails/Cover Stripe.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Thumbnails/Cover Stripe.mesh.nasset.tex.nasset"
     },
     "870d5fa2-f835-4de6-e7c9-65e45f586df9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Conveyor Sides Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Conveyor Sides Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1777,7 +1835,7 @@
     "873e63be-77ec-9bc2-26da-7736fae2e642": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Arrow.mesh.nasset/Arrow.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Arrow.mesh.nasset/Arrow.mesh.nasset",
         "thumbnail": "cdb604d9-9e58-207f-de81-669dfdcc68a5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1790,7 +1848,7 @@
     },
     "8762be22-0bb3-1f0d-c2a6-c6534953c20a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/White.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/White.mtli.nasset",
         "thumbnail": "3d9f7238-377f-4a11-4639-0f93bc74d96a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -1799,7 +1857,7 @@
     "87c82c6a-fd61-3dde-005f-177566a63829": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Cover Corner Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Cover Corner Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1811,7 +1869,7 @@
     "87cd0b50-75ee-9de1-0a26-6a79e60a15ec": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Cover Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Cover Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1823,7 +1881,7 @@
     "88c6af6d-40ea-b5e6-9fa2-cbddd407d600": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Structure Yellow High.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow High.mesh.nasset/Structure Yellow High.mesh.nasset",
         "thumbnail": "46a7f55f-da3b-d5d2-9fe1-6de12d42c17d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1841,7 +1899,7 @@
     "88fad43c-e092-a909-dba9-0ae712c20012": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Structure Yellow Medium Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Structure Yellow Medium Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1853,7 +1911,7 @@
     "897e4272-01ad-2f81-b976-b5eb0fdb385f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Top Large.mesh.nasset/Top Large Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Top Large.mesh.nasset/Top Large Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1862,10 +1920,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8aa983c1-9ff5-4433-ad2c-3622450ab2a6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Stripe Angle Yellow.mesh.nasset/Thumbnails/Stripe Angle Yellow.mesh.nasset.tex.nasset"
+    },
     "8abed75e-b29e-ad07-6a33-dcf0c12201c9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1877,7 +1939,7 @@
     "8b1d47f0-af4b-158b-920d-43a2eb8543ed": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1889,7 +1951,7 @@
     "8b79b458-b273-8b40-e603-0812921a2b2e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Conveyor Bars Stripe Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Conveyor Bars Stripe Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1901,7 +1963,7 @@
     "8bbcd033-b2d7-e314-d51f-2409a27dfa3a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1913,7 +1975,7 @@
     "8c20bcbf-9b65-3f15-1663-c1ac41d1f055": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top.mesh.nasset",
         "thumbnail": "9e1e13fb-5e74-4fb4-d94b-ae919dcdb28d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1933,7 +1995,7 @@
     "8e0c350e-2e40-c65a-a96a-0353d1399088": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1944,7 +2006,7 @@
     },
     "8e3d87c6-cb74-04dc-1971-8c10fb4c8ac4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/Tape.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/Tape.mtli.nasset",
         "thumbnail": "19f16e1d-97b6-bc51-7115-d6e275964fa3",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -1953,7 +2015,7 @@
     "8ec0c512-2c0a-57f1-eaf6-9ba4130481a5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Floor Large.mesh.nasset/Floor Large Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Floor Large.mesh.nasset/Floor Large Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1962,10 +2024,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8f34bc6f-ef5e-34df-083f-d5691ec76788": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Objects/Material Instances/Stripe.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "8f7678de-14ed-73b9-e7fa-0e265382a4e6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Structure Short Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Structure Short Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -1977,7 +2046,7 @@
     "8ffd98f1-ac8a-5d4a-e7d4-f8187a73d483": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Cover Bar.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Bar.mesh.nasset/Cover Bar.mesh.nasset",
         "thumbnail": "1f747b8b-fd74-e584-25a2-c089298624d4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -1995,7 +2064,7 @@
     "925ad494-3d17-1ccd-a3c0-c2c243becb76": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Conveyor Bars Stripe High Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Conveyor Bars Stripe High Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2007,7 +2076,7 @@
     "929bb9d0-6d8c-9d3f-b09f-31889ffbe642": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Stripe.mesh.nasset/Conveyor Long Stripe.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Stripe.mesh.nasset/Conveyor Long Stripe.mesh.nasset",
         "thumbnail": "99ead6d1-d68a-1fc3-b2ae-0be7c92a32bd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2022,12 +2091,12 @@
     },
     "92a4eb0d-41f3-a2f4-0a78-7b3d383e1bac": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Closed.mesh.nasset/Thumbnails/Door Wide Closed.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Closed.mesh.nasset/Thumbnails/Door Wide Closed.mesh.nasset.tex.nasset"
     },
     "9374ae58-bb25-5407-b0af-9290b589a326": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Cover.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Cover.mesh.nasset",
         "thumbnail": "95e5e7a7-20b8-aa0e-8bb1-b137dd3add22",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2045,7 +2114,7 @@
     "94baf050-6e9a-6dcb-604e-ce80df50322f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Structure Wall.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Structure Wall.mesh.nasset",
         "thumbnail": "b9da1ea8-6136-4516-8a9f-8c25f0c5533e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2062,12 +2131,24 @@
     },
     "95e5e7a7-20b8-aa0e-8bb1-b137dd3add22": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Thumbnails/Cover.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover.mesh.nasset/Thumbnails/Cover.mesh.nasset.tex.nasset"
+    },
+    "9619423d-b9ce-5b65-f5b1-165a5fd310a7": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Stripe Angle Yellow.mesh.nasset/Stripe Angle Yellow Yellow.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "523501c7-6910-5105-a988-18fd8c07a7f1",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "9653d1a1-89ed-c33b-b845-46aa7ac68749": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Closed.mesh.nasset/Door Wide Closed Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Closed.mesh.nasset/Door Wide Closed Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2078,12 +2159,12 @@
     },
     "976b60d5-507f-460f-e4d2-8389191d0b82": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Large.mesh.nasset/Thumbnails/Box Large.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Large.mesh.nasset/Thumbnails/Box Large.mesh.nasset.tex.nasset"
     },
     "97ac72e4-a22d-4970-375b-b8a3fe526f58": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Structure Medium Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Structure Medium Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2095,7 +2176,7 @@
     "9812f3d1-2f09-b460-3468-e03de3881383": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Doorway Wide.mesh.nasset/Structure Doorway Wide.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Doorway Wide.mesh.nasset/Structure Doorway Wide.mesh.nasset",
         "thumbnail": "e97d2478-d12a-ec98-3480-f672cdd9282f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2111,7 +2192,7 @@
     "9837c8a5-9470-6efa-936a-3f768cc7c686": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Structure High Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Structure High Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2123,7 +2204,7 @@
     "984da9fe-32b2-4511-a2c0-860c8f2f8a00": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Doorway Wide.mesh.nasset/Structure Doorway Wide Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Doorway Wide.mesh.nasset/Structure Doorway Wide Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2135,7 +2216,7 @@
     "98a41650-86d8-1ea7-5b94-a1e127c1675d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Cover Top.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Cover Top.mesh.nasset",
         "thumbnail": "2472f42a-db5c-3e99-5c43-db9836c686c9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2153,7 +2234,7 @@
     "990902bc-4f92-94a7-974f-32dfe91d759d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2165,7 +2246,7 @@
     "99806915-1e2b-9067-f71a-a0beadf3d6a2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Conveyor Bars Sides Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Sides.mesh.nasset/Conveyor Bars Sides Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2176,16 +2257,16 @@
     },
     "99ead6d1-d68a-1fc3-b2ae-0be7c92a32bd": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Stripe.mesh.nasset/Thumbnails/Conveyor Long Stripe.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Stripe.mesh.nasset/Thumbnails/Conveyor Long Stripe.mesh.nasset.tex.nasset"
     },
     "9e1e13fb-5e74-4fb4-d94b-ae919dcdb28d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Thumbnails/Cover Stripe Top.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Thumbnails/Cover Stripe Top.mesh.nasset.tex.nasset"
     },
     "9eed13f4-a5cf-edbf-54ac-533756ad3203": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Cover Window.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Cover Window.mesh.nasset",
         "thumbnail": "0d4c8a30-7649-e1f2-6a76-296ffe376d69",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2203,7 +2284,7 @@
     "a0acb4de-d10d-89fd-709f-141764f60f6e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Cover Hopper Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Cover Hopper Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2215,7 +2296,7 @@
     "a17d02b7-b6da-0ffb-bc97-7da5957225dc": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Structure Medium.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Structure Medium.mesh.nasset",
         "thumbnail": "5fac1cbf-feff-1753-e377-41c221783ad0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2233,7 +2314,7 @@
     "a4f56309-343a-7080-5288-37f5245481ac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Large.mesh.nasset/Box Large.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Large.mesh.nasset/Box Large.mesh.nasset",
         "thumbnail": "976b60d5-507f-460f-e4d2-8389191d0b82",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2249,7 +2330,7 @@
     "a553cc51-970e-0737-991c-2482b9955c00": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2261,7 +2342,7 @@
     "a56ddb98-8dc5-6209-eccb-cfedb0760ef1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Structure Yellow Short Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Structure Yellow Short Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2273,7 +2354,7 @@
     "a94eaacb-ee63-0305-d6c2-35cf910c22d4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Stripe.mesh.nasset/Conveyor Stripe.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Stripe.mesh.nasset/Conveyor Stripe.mesh.nasset",
         "thumbnail": "378fdcb7-4e35-2ca5-4229-e60ee87c929f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2288,16 +2369,16 @@
     },
     "acc02d66-5f0a-0380-8f11-8c6e2af84b17": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Thumbnails/Door Wide Open.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Thumbnails/Door Wide Open.mesh.nasset.tex.nasset"
     },
     "b3312db5-4044-40ed-4935-115a03e880df": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Thumbnails/Cover Hopper.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Thumbnails/Cover Hopper.mesh.nasset.tex.nasset"
     },
     "b4a2bbd1-92cd-0347-02c1-d0dfb019d86d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2308,12 +2389,12 @@
     },
     "b4e0c0a6-2be6-9d4a-3b81-28d29949ef02": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Thumbnails/Conveyor Bars Stripe Fence.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Thumbnails/Conveyor Bars Stripe Fence.mesh.nasset.tex.nasset"
     },
     "b4ed9d08-bc23-5f4f-c67c-bda09cbb807f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Structure Corner Outer Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Outer.mesh.nasset/Structure Corner Outer Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2325,7 +2406,7 @@
     "b5411426-a1d6-7610-e814-ae4df54f1b8a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper.mesh.nasset",
         "thumbnail": "6503b329-df02-4b74-91a2-c8f4ba9b6e73",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2345,7 +2426,7 @@
     "b85f9dea-f4a5-a9e8-6af7-01294fc37ba0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Conveyor Long Stripe Sides Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Conveyor Long Stripe Sides Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2356,16 +2437,16 @@
     },
     "b928e064-8469-1615-b157-e25a7d486d53": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Thumbnails/Conveyor Stripe Sides.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Thumbnails/Conveyor Stripe Sides.mesh.nasset.tex.nasset"
     },
     "b9da1ea8-6136-4516-8a9f-8c25f0c5533e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Thumbnails/Structure Wall.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Wall.mesh.nasset/Thumbnails/Structure Wall.mesh.nasset.tex.nasset"
     },
     "b9e223ac-0a8f-8584-53a7-1dee27caeb6e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Conveyor Bars Stripe Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Conveyor Bars Stripe Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2377,7 +2458,7 @@
     "babb5691-3bcf-4113-c733-72d177dd9ce0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Structure Medium Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Structure Medium Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2389,7 +2470,7 @@
     "bd01bfab-355c-716d-fcb9-f1e51acb860f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2401,7 +2482,7 @@
     "beafccfd-f8ca-fbf0-b02a-f93f48a8e59c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2413,7 +2494,7 @@
     "c08ece51-aaa6-e897-9b20-39309e02a77d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Cover Window Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Cover Window Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2425,7 +2506,7 @@
     "c18bcdaa-e98b-02f6-e413-35d526858413": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Conveyor Long Stripe Sides Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Conveyor Long Stripe Sides Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2437,7 +2518,7 @@
     "c1c74023-4c5d-8b83-e7f7-7c08945e6819": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Fence.mesh.nasset/Conveyor Bars Stripe Fence.mesh.nasset",
         "thumbnail": "b4e0c0a6-2be6-9d4a-3b81-28d29949ef02",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2454,9 +2535,21 @@
             "1830d579-4c55-c7db-931d-e8a892d6e5c9"
         ]
     },
+    "c2a65c6d-835c-8097-b203-022af6c2cfaa": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Stripe Single White.mesh.nasset/Stripe Single White Stripe.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8f34bc6f-ef5e-34df-083f-d5691ec76788",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "c2f83b5d-3a1d-8a80-4aed-d14614464f9d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/Cardboard.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/Cardboard.mtli.nasset",
         "thumbnail": "20c992b0-5617-9b37-bb3d-dc0cce285d6e",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -2465,7 +2558,7 @@
     "c394466b-e392-fbed-abd9-e57dc7a679c1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Structure Short Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Short.mesh.nasset/Structure Short Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2476,7 +2569,7 @@
     },
     "c3cc9393-ea85-2031-8ef9-1c61dba9683b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/Grey.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/Grey.mtli.nasset",
         "thumbnail": "6cbe617d-2840-8018-0fa2-8bcaf82a97ab",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -2485,7 +2578,7 @@
     "c4308d17-cc8a-d9f8-4686-6c1644b3b529": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2494,10 +2587,22 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c45310c6-5328-3263-4378-6544c66330f2": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Stripe Angle White.mesh.nasset/Stripe Angle White Stripe.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8f34bc6f-ef5e-34df-083f-d5691ec76788",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "c4b78b1a-09c6-0fef-c7ca-4bc027153af7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2508,7 +2613,7 @@
     },
     "c4c84e43-f616-2880-3df3-37d9e3363743": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/Striping.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/Striping.mtli.nasset",
         "thumbnail": "3d21530b-ca5c-0111-7210-ad5689e9d206",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -2517,7 +2622,7 @@
     "c5a148c5-1fab-e0fb-346b-fd783c4ade57": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Conveyor Bars High.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Conveyor Bars High.mesh.nasset",
         "thumbnail": "240229ff-f89c-34a2-b03b-42fa4e29e372",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2534,12 +2639,12 @@
     },
     "c86cf7d3-816f-7961-9662-70fccb7ef97d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Material Instances/Thumbnails/Grey Dark.mtli.nasset.tex.nasset"
+        "path": "Assets/Objects/Material Instances/Thumbnails/Grey Dark.mtli.nasset.tex.nasset"
     },
     "c8cbf0c1-eb30-d313-78df-ea92a1f68149": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door.mesh.nasset/Door.mesh.nasset",
         "thumbnail": "2fe4251c-0cfd-3441-14ac-8bf92071d8fa",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2559,7 +2664,7 @@
     "c8cf87d0-4ce7-9852-edcd-68b5b6429bdb": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe.mesh.nasset/Cover Stripe Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2571,7 +2676,7 @@
     "cb0a054d-3a21-1d7c-d449-83eb35b3718e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Hopper.mesh.nasset/Cover Stripe Hopper Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2583,7 +2688,7 @@
     "cb0add24-d236-8775-a88b-c862a7edb7df": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Top Large.mesh.nasset/Top Large.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Top Large.mesh.nasset/Top Large.mesh.nasset",
         "thumbnail": "741aa798-a49d-732c-5c2c-9dde1e1d386c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2597,7 +2702,7 @@
     "cb10373f-cc48-fd44-7bcd-97b0df9ddd47": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Cover Corner.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Cover Corner.mesh.nasset",
         "thumbnail": "dd6df98c-da6a-b5a8-a11e-96657bcfe0f2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2615,7 +2720,7 @@
     "cb21fb6e-cac7-4f85-1735-bb40521c664e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Cover Corner Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Cover Corner Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2626,16 +2731,16 @@
     },
     "cbb82e13-1aa8-201e-8898-7ea26cf487d2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Floor.mesh.nasset/Thumbnails/Floor.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Floor.mesh.nasset/Thumbnails/Floor.mesh.nasset.tex.nasset"
     },
     "cbd9e079-f5f7-a054-0a5f-b82fa1a0111b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor.mesh.nasset/Thumbnails/Conveyor.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor.mesh.nasset/Thumbnails/Conveyor.mesh.nasset.tex.nasset"
     },
     "cbea68fb-a263-f407-a4f9-b3016dae4642": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Conveyor Bars High Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars High.mesh.nasset/Conveyor Bars High Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2646,16 +2751,16 @@
     },
     "cdb604d9-9e58-207f-de81-669dfdcc68a5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Arrow.mesh.nasset/Thumbnails/Arrow.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Arrow.mesh.nasset/Thumbnails/Arrow.mesh.nasset.tex.nasset"
     },
     "ce24a7a2-9f1f-b274-a6b8-881632fc8276": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Doorway.mesh.nasset/Thumbnails/Structure Doorway.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Doorway.mesh.nasset/Thumbnails/Structure Doorway.mesh.nasset.tex.nasset"
     },
     "ce669159-567d-1a04-4bc7-08038003f839": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Conveyor Bars Stripe.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Conveyor Bars Stripe.mesh.nasset",
         "thumbnail": "696dc8cb-68f6-98b6-b0dc-2c1df3c7d866",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2673,7 +2778,7 @@
     "d0164ea8-4047-28f9-6132-9c0200659718": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Conveyor Bars Stripe Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe.mesh.nasset/Conveyor Bars Stripe Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2685,7 +2790,7 @@
     "d26d765d-7ef4-0c89-a3ec-f5fec07f39de": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Box Long.mesh.nasset/Box Long.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Box Long.mesh.nasset/Box Long.mesh.nasset",
         "thumbnail": "25902642-c472-5db3-f685-8253f6392ce3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2701,7 +2806,7 @@
     "d3a3d80f-b2ce-53b3-a152-ac1c4f44933d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2713,7 +2818,7 @@
     "d3ac873a-cfc8-e87d-45cc-20f25f113946": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Bar.mesh.nasset/Cover Stripe Bar Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2725,7 +2830,7 @@
     "d3fbe2e2-b247-9076-7c73-28dddb2e5308": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Cover Top Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Top.mesh.nasset/Cover Top Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2737,7 +2842,7 @@
     "d4aca11a-7656-eb78-03ac-26a361ec88ef": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Structure Yellow Tall Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Structure Yellow Tall Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2748,11 +2853,11 @@
     },
     "d4ebbab4-1548-89a9-eba3-56a1d3bd01ab": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Thumbnails/Cover Stripe Corner.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Thumbnails/Cover Stripe Corner.mesh.nasset.tex.nasset"
     },
     "d6587e60-fc57-59bd-cfef-51997abc8f79": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/Orange.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/Orange.mtli.nasset",
         "thumbnail": "44449cd6-5af3-ec87-dfdd-e52f1a9a9eab",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -2761,7 +2866,7 @@
     "d9fa2e51-66a7-30ab-6f63-b33cceddd5e8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Conveyor Bars Stripe High Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe High.mesh.nasset/Conveyor Bars Stripe High Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2773,7 +2878,7 @@
     "db89020c-de42-7da6-80ed-56158c700f4c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Door Wide Open Orange.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Open.mesh.nasset/Door Wide Open Orange.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2785,7 +2890,7 @@
     "dbc87cc2-1a34-4492-5469-89e64ac30612": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Conveyor Sides Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Conveyor Sides Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2796,11 +2901,11 @@
     },
     "dcda31d8-3dd8-6927-964d-2ae71af5eab6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Thumbnails/Structure Corner Inner.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Corner Inner.mesh.nasset/Thumbnails/Structure Corner Inner.mesh.nasset.tex.nasset"
     },
     "dd14cd88-7de8-39ff-c8ac-2277c99ff61f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Source/Material Instances/Dark.mtli.nasset",
+        "path": "Assets/Objects/Material Instances/Dark.mtli.nasset",
         "thumbnail": "4d8a65ab-eede-1f60-6dd2-f227f118519b",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
@@ -2808,12 +2913,12 @@
     },
     "dd6df98c-da6a-b5a8-a11e-96657bcfe0f2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Thumbnails/Cover Corner.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Corner.mesh.nasset/Thumbnails/Cover Corner.mesh.nasset.tex.nasset"
     },
     "df73be25-a5d4-1394-38bd-50fd8b800379": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner.mesh.nasset",
         "thumbnail": "d4ebbab4-1548-89a9-eba3-56a1d3bd01ab",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2832,12 +2937,12 @@
     },
     "e117d511-ec9c-2d6d-ef5f-9c76006cccd8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Thumbnails/Door Wide Half.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Door Wide Half.mesh.nasset/Thumbnails/Door Wide Half.mesh.nasset.tex.nasset"
     },
     "e1cf4b54-b390-9da4-a6fd-d8e6e2862e58": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2849,7 +2954,7 @@
     "e23559bf-8be8-800e-a517-e2c548632052": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Structure Tall.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Structure Tall.mesh.nasset",
         "thumbnail": "22720482-3f4c-598a-b67b-6fa9fb6dc9ed",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2867,7 +2972,7 @@
     "e397a4dc-1306-c3ee-5662-8a7b4448b2c2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Fence.mesh.nasset/Conveyor Bars Fence Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2879,7 +2984,7 @@
     "e467eb48-114f-fbf1-49e5-19de9f414b68": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Structure Tall Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Structure Tall Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2890,12 +2995,12 @@
     },
     "e7222c76-bd6a-b666-3816-1682f72331d0": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Thumbnails/Structure Yellow Short.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Thumbnails/Structure Yellow Short.mesh.nasset.tex.nasset"
     },
     "e85845c8-cd7b-5e50-ae99-44f1eba06664": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars.mesh.nasset/Conveyor Bars Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars.mesh.nasset/Conveyor Bars Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2906,12 +3011,12 @@
     },
     "e97d2478-d12a-ec98-3480-f672cdd9282f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Doorway Wide.mesh.nasset/Thumbnails/Structure Doorway Wide.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Doorway Wide.mesh.nasset/Thumbnails/Structure Doorway Wide.mesh.nasset.tex.nasset"
     },
     "e9b19291-f993-8d41-a078-325e0fbf50c9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Conveyor Stripe Sides Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Stripe Sides.mesh.nasset/Conveyor Stripe Sides Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2923,7 +3028,7 @@
     "e9f35e3b-34f8-a014-b24c-d1971484dbb1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Structure High Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure High.mesh.nasset/Structure High Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2935,7 +3040,7 @@
     "ea4f035a-2e3e-2dcc-22c6-ddcc5315610f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Structure Yellow Tall Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Tall.mesh.nasset/Structure Yellow Tall Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2947,7 +3052,7 @@
     "ea5d7bc9-1e1c-e09f-817a-7200fa122c62": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Cover Hopper Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Hopper.mesh.nasset/Cover Hopper Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2959,7 +3064,7 @@
     "eb084cb3-d134-59e1-49f8-f0e1fa6f2b62": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Structure Yellow Medium Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Structure Yellow Medium Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -2971,7 +3076,7 @@
     "eb56d5bd-7c71-ad09-20ac-7d3366097e88": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Window.mesh.nasset/Cover Stripe Window.mesh.nasset",
         "thumbnail": "1aa017cb-1afc-6eea-13ee-c229b2f39664",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -2991,7 +3096,7 @@
     "ed9a4937-d964-e072-5d9a-2a84f32b0c7d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Cover Window Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Window.mesh.nasset/Cover Window Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3002,12 +3107,12 @@
     },
     "ef06bd86-ceb6-ead6-fd3d-e51355b5e717": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Thumbnails/Structure Window.mesh.nasset.tex.nasset"
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Thumbnails/Structure Window.mesh.nasset.tex.nasset"
     },
     "ef0df19d-f6af-aeed-1672-f7b1fabbdb83": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3019,7 +3124,7 @@
     "ef2ef0cf-4160-9129-dc86-af5c9aaf944a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Structure Tall Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Tall.mesh.nasset/Structure Tall Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3031,7 +3136,7 @@
     "f03958cd-0277-34e8-cade-957dc5f69792": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Structure Yellow Medium.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Medium.mesh.nasset/Structure Yellow Medium.mesh.nasset",
         "thumbnail": "1b307273-1cf6-4b2d-da87-fe680754096c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3049,7 +3154,7 @@
     "f03f82e3-afee-293f-7717-74f0b94f1094": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Structure Yellow Short.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Yellow Short.mesh.nasset/Structure Yellow Short.mesh.nasset",
         "thumbnail": "e7222c76-bd6a-b666-3816-1682f72331d0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3067,7 +3172,7 @@
     "f5902306-b511-df08-a539-cafb5df3930b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Conveyor Long Stripe Sides.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Stripe Sides.mesh.nasset/Conveyor Long Stripe Sides.mesh.nasset",
         "thumbnail": "06ec2b14-b9ad-96b0-fade-bdb641673bdc",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3085,7 +3190,7 @@
     "f5c65dfe-be3a-c4fc-9d5d-7f1f6a7dfec2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Conveyor Sides.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Sides.mesh.nasset/Conveyor Sides.mesh.nasset",
         "thumbnail": "29179e4d-0c91-ab3a-d5f7-a7389f3aa786",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3103,7 +3208,7 @@
     "f68f1a79-c094-1ce5-175f-0fc9f4ec3eaf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Top.mesh.nasset/Cover Stripe Top Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3112,10 +3217,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f8d4b07b-d303-4a20-96ad-816ac01936a6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Stripe Single White.mesh.nasset/Thumbnails/Stripe Single White.mesh.nasset.tex.nasset"
+    },
     "f9131ddb-6f4f-38f0-31d3-31f961297855": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Conveyor Long Sides Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Long Sides.mesh.nasset/Conveyor Long Sides Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3124,10 +3233,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f9d6e963-0bbb-4c28-bf43-302c4fd4b36a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Stripe Angle White.mesh.nasset/Thumbnails/Stripe Angle White.mesh.nasset.tex.nasset"
+    },
     "fabe0693-4fa2-422f-7aa4-b2616914af07": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3139,7 +3252,7 @@
     "fbe1d60c-0b24-2a2f-7b51-52a5eb705ebd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Cover Stripe Corner.mesh.nasset/Cover Stripe Corner Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3151,7 +3264,7 @@
     "fce36cd6-d730-1355-7e56-57e12588f0e2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Structure Medium Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Medium.mesh.nasset/Structure Medium Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3163,7 +3276,7 @@
     "fd519448-60d0-8017-8f81-6976499e814f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window.mesh.nasset/Structure Window.mesh.nasset",
         "thumbnail": "ef06bd86-ceb6-ead6-fd3d-e51355b5e717",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3183,7 +3296,7 @@
     "fe01e4fc-caea-cf2a-8a86-2f602441548f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Doorway.mesh.nasset/Structure Doorway Grey.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Doorway.mesh.nasset/Structure Doorway Grey.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3195,7 +3308,7 @@
     "fe5673b6-cf06-1600-6306-49e39e482599": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide Striping.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Structure Window Wide.mesh.nasset/Structure Window Wide Striping.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
@@ -3207,7 +3320,7 @@
     "fed54469-4cc5-9462-9203-bc0bec06b6f8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Floor Large.mesh.nasset/Floor Large.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Floor Large.mesh.nasset/Floor Large.mesh.nasset",
         "thumbnail": "8430000b-0100-d6b5-6971-81f9fd44c8b7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
@@ -3221,7 +3334,7 @@
     "ff0c3f50-23b8-a5ba-9748-b0d1d836ac08": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Source/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Conveyor Bars Stripe Side Grey Dark.mesh.nasset",
+        "path": "Assets/Objects/SC_Ship_It.scene.nasset/Conveyor Bars Stripe Side.mesh.nasset/Conveyor Bars Stripe Side Grey Dark.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ],
